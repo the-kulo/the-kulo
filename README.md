@@ -3,7 +3,7 @@
 - 👀 I’m interested in **Site Reliability Engineering (SRE), DevOps, and Cloud Automation**.  
 - 🌱 I’m currently learning **advanced Kubernetes, observability tools, and cloud-native technologies**.  
 - 💞️ I’m looking to collaborate on **open-source projects related to infrastructure automation and cloud monitoring**.  
-- 📫 How to reach me: [Your Email or Social Link]  
+- 📫 How to reach me: 1079093921@qq.com
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: **I enjoy optimizing infrastructure as much as I enjoy playing strategy games!**  
 
