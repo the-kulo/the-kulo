@@ -23,6 +23,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)  
 ![Puppet](https://img.shields.io/badge/Puppet-FFAE1A?style=for-the-badge&logo=puppet&logoColor=black)  
+![etcd](https://img.shields.io/badge/etcd-2389D7?style=for-the-badge&logo=etcd&logoColor=white) 
 
 ---
 
