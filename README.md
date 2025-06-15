@@ -3,16 +3,15 @@
 - 👀 I’m interested in **Site Reliability Engineering (SRE), DevOps, and Cloud Automation**.  
 - 🌱 I’m currently learning **advanced Kubernetes, observability tools, and cloud-native technologies**.  
 - 💞️ I’m looking to collaborate on **open-source projects related to infrastructure automation and cloud monitoring**.  
-- 📫 How to reach me: 1079093921@qq.com
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: **I enjoy optimizing infrastructure as much as I enjoy playing strategy games!**  
+- 📫 How to reach me: 1079093921@qq.com 
+- ⚡ Hobby: **Dota2, Tom Clancy's Rainbow Six**  
 
 ---
 
 ## ☁️ Cloud Platforms  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![Alibaba Cloud](https://img.shields.io/badge/Alibaba%20Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![JD Cloud](https://img.shields.io/badge/JD%20Cloud-D7000F?style=for-the-badge&logo=jd&logoColor=white)  
 
 ---
@@ -28,7 +27,9 @@
 ---
 
 ## 🔧 CI/CD & Automation  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) 
+![JihuLab CI](https://img.shields.io/badge/JihuLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
 
 ---
 
